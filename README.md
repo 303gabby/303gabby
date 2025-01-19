@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @303gabby
-- 👀 I’m interested in Frontend Development, UI/UX Design, 
+- 👀 I’m interested in Product Design, UI/UX, and Software Engineering
 - 🌱 I’m currently learning ...SQL,R,C++
 - 📫 How to reach me : b.gabby@wustl.edu
 - 😄 Pronouns: she/her
