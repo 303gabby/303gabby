@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @303gabby
-- 👀 I’m interested in Product Design, UI/UX, and Software Engineering
-- 🌱 I’m currently learning ...SQL,R,C++
+- 👀 I’m interested in Product Design, UI/UX, Data Analysis,  and Software Engineering
+- 🌱 I’m currently learning ...SQL,C++
 - 📫 How to reach me : b.gabby@wustl.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been to 4 countries in 1 day!
