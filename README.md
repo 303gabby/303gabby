@@ -4,6 +4,7 @@
 - 📫 How to reach me : b.gabby@wustl.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been to 4 countries in 1 day!
+- My portfolio Website is currently under construction!
 
 <!---
 303gabby/303gabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
