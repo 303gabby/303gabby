@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @303gabby
-- 👀 I’m interested in Product Design, UI/UX, Data Analysis,  and Software Engineering
+- 👀 I’m interested in Product Design, Product Management, UI/UX, Data Analysis, Tech Consulting  and Software Engineering
 - 🌱 I’m currently learning ...SQL,C++
 - 📫 How to reach me : b.gabby@wustl.edu
 - 😄 Pronouns: she/her
