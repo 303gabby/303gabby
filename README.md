@@ -6,22 +6,17 @@ I’m especially interested in building human-centered, AI-powered tools that ar
 
 ---
 
-## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-5586A4?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F1C40F?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-5ED3F3?style=flat&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-FF6F61?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-379AD6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-E76F51?style=flat&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FEC601?style=flat&logo=scikit-learn&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
----
+| Programming Languages | Frontend & UI | Data Science & Tools |
+|-----------------------|---------------|---------------------|
+| 🐍 Python             | ⚛️ React      | 📓 Jupyter          |
+| ☕ Java               | 🌐 HTML5      | 📊 scikit-learn     |
+| 💻 C++               | 🎨 CSS3       | 🐬 MySQL            |
+| 📜 JavaScript        | 🎨 Figma      |                     |
+| 🔷 TypeScript        |               |                     |
+
+
 
 ## 🚀 Projects
 
