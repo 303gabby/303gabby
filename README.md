@@ -63,3 +63,7 @@ Building secure CLI tools and full-stack apps using APIs, testing, and databases
 - 🌐 [Portfolio](https://303gabby.github.io/gabrielle-s_portfolio/)
 
 ---
+## 📊 GitHub Stats
+
+![Gabby's GitHub stats](https://github-readme-stats.vercel.app/api?username=303gabby&show_icons=true&theme=radical)
+
