@@ -63,4 +63,3 @@ Building secure CLI tools and full-stack apps using APIs, testing, and databases
 - 🌐 [Portfolio](https://303gabby.github.io/gabrielle-s_portfolio/)
 
 ---
-
