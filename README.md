@@ -34,11 +34,8 @@ Drafted the org's first AI policy and built custom GPTs for marketing automation
 - **Data Viz Assistant, WashU Libraries**  
 Support AR/VR tools and develop workflows to make 3D capture more accessible.
 
-- **Break Through Tech AI Fellow**  
-Training in machine learning at Cornell Tech. Applying AI to solve real-world problems.
-
 - **SEO Tech Developer**  
-Building secure CLI tools and full-stack apps using APIs, testing, and databases.
+Building secure full-stack apps using APIs, testing, and databases.
 
 ---
 
